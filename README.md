@@ -41,8 +41,7 @@ We accept pull requests to this repository. Some guidelines:
  * Keep individual files to about 1000 "things" maximum. Fewer than 1000 is fine, too.
  * If you'd like attribution, I'm happy to include your name in this Readme file. Just remember that nobody who uses this data is obligated to include attribution in their own projects.
 
-## Contributors:
+## Contributors
 
- * Tyler Kellen ([tkellen](https://github.com/tkellen)): prefixes and suffixes
- * sui sea ([suisea](https://github.com/suisea)): curated/categorised emoji and words
- * Parker Higgins ([thisisparker](https://github.com/thisisparker)): apple cultivars from the pomological watercolor collection
+By [Darius Kazemi and Many Wonderful Contributors](https://github.com/dariusk/corpora/graphs/contributors).
+
